@@ -1,0 +1,12 @@
+* {
+  background-color: aqua;
+}
+#main {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-align: center;
+  background-color: aqua;
+}
+
+#li {
+  color: red;
+}
